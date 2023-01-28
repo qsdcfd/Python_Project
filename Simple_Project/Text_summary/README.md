@@ -63,3 +63,18 @@
 ### collections.Counter
 
 > collections.Counter는 리스트나 문자열과 같은 자료형의 요소 중 **값이 같은 요소가 몇 개인지를 확인**할 때 사용
+
+<br>
+
+## 문서 요약하기
+
+### gensim
+
+> <img align='left' src='img/gensim_logo.png' width='200' height='200'/> <br> <br> <br> <br>
+>
+> ### 자연어 처리, 토픽 모델링에 활발히 사용되는 파이썬 머신러닝 라이브러리
+> - **`Word2Vec`** 알고리즘을 통한 **자연어의 벡터화 (Word Embedding)** 이 대표적
+>  <img align='left' src='img/word2vec_exp.png' width='500' height='500'/>
+
+> - **`summarization`** 내장 모듈로 **긴 문장을 요약**할 수 있음 ( _gensim 4.x 버전 부터는 요약기능이 지원되지 않음 !_ )
+> - **gensim 3.7.3 버전**을 사용
