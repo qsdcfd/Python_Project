@@ -56,3 +56,10 @@
 > - 특정 문자열 `추출`, `변환` 등에 사용
 > - [공식문서](https://docs.python.org/3/library/re.html)
 
+<br>
+
+## 2-4. 단어 개수 구하기
+
+### 2-4-1. collections.Counter
+
+> collections.Counter는 리스트나 문자열과 같은 자료형의 요소 중 **값이 같은 요소가 몇 개인지를 확인**할 때 사용
