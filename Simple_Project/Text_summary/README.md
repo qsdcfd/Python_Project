@@ -66,7 +66,7 @@
 
 <br>
 
-## 문서 요약하기
+## [문서 요약하기](https://github.com/qsdcfd/Python_Project/blob/TIL/Simple_Project/Text_summary/05.%20%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%A3%E1%86%A8%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%20-%20gensim.py)
 
 ### gensim
 
