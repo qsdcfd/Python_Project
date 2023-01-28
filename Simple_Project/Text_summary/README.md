@@ -40,7 +40,7 @@
 
 <br>
 
-## 2-3. 문자열 다루기
+## [2-3. 문자열 다루기](https://github.com/qsdcfd/Python_Project/tree/TIL/Simple_Project/Text_summary)
 
 ### 2-3-1. textwrap
 
