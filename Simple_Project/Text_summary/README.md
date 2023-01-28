@@ -37,3 +37,22 @@
 >    - `문자열 입력` -> `ASCII/Binary (8bit)` -> `6bit cut` -> `base64`
 > - [Base64 인코딩 테이블](https://en.wikipedia.org/wiki/Base64)
 > <img src='img/base64_example.png' width='600' height='600'/>
+
+<br>
+
+## 2-3. 문자열 다루기
+
+### 2-3-1. textwrap
+
+> - 파이썬에서 **문자열을 보기 좋은 형태**로 정렬 또는 줄바꿈하는데 사용할 수 있는 라이브러리입니다.
+> - 원하는 길이에 맞게 줄이기 : textwrap.shorten()
+> - 긴 문장 자르기 : textwrap.wrap()
+> - 긴 문장 줄바꿈 : textwrap.fill()
+> - [샘플 기사](https://www.codingworldnews.com/news/articleView.html?idxno=12116)
+
+### 2-3-2. re
+
+> - **정규표현식(regular expressions)**은 복잡한 문자열을 처리할 때 사용하는 기법으로, 파이썬뿐 아니라 C, 자바, 심지어 문서 작성 프로그램 등 문자열을 처리해야 하는 다양한 곳에서 활용중
+> - 특정 문자열 `추출`, `변환` 등에 사용
+> - [공식문서](https://docs.python.org/3/library/re.html)
+
