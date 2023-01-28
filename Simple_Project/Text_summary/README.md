@@ -40,9 +40,9 @@
 
 <br>
 
-## [2-3. 문자열 다루기](https://github.com/qsdcfd/Python_Project/tree/TIL/Simple_Project/Text_summary)
+## [문자열 다루기](https://github.com/qsdcfd/Python_Project/tree/TIL/Simple_Project/Text_summary)
 
-### 2-3-1. textwrap
+### textwrap
 
 > - 파이썬에서 **문자열을 보기 좋은 형태**로 정렬 또는 줄바꿈하는데 사용할 수 있는 라이브러리입니다.
 > - 원하는 길이에 맞게 줄이기 : textwrap.shorten()
@@ -50,7 +50,7 @@
 > - 긴 문장 줄바꿈 : textwrap.fill()
 > - [샘플 기사](https://www.codingworldnews.com/news/articleView.html?idxno=12116)
 
-### 2-3-2. re
+### re
 
 > - **정규표현식(regular expressions)**은 복잡한 문자열을 처리할 때 사용하는 기법으로, 파이썬뿐 아니라 C, 자바, 심지어 문서 작성 프로그램 등 문자열을 처리해야 하는 다양한 곳에서 활용중
 > - 특정 문자열 `추출`, `변환` 등에 사용
@@ -58,8 +58,8 @@
 
 <br>
 
-## 2-4. 단어 개수 구하기
+## [단어 개수 구하기](https://github.com/qsdcfd/Python_Project/blob/TIL/Simple_Project/Text_summary/04.%20%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%20%E1%84%80%E1%85%A2%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%20-%20collections.Counter.py)
 
-### 2-4-1. collections.Counter
+### collections.Counter
 
 > collections.Counter는 리스트나 문자열과 같은 자료형의 요소 중 **값이 같은 요소가 몇 개인지를 확인**할 때 사용
